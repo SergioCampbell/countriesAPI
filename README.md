@@ -20,3 +20,6 @@ List of 251 countries encapsulated in an object called: _countries_ with the fol
 }
 
 ````
+
+# Usage
+You can use this API for free just copy and paste the [endpoint](https://api.npoint.io/5604a5d0346324278311) in the description.
